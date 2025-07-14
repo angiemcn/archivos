@@ -1,0 +1,21 @@
+### Tipos de casos que aplican para reembolso
+- El reembolso solo se aplica si el producto presenta problemas de tipo faltante o maltratado.
+- No se realizan reembolsos por productos erróneos. En estos casos, el cliente debe acudir a una tienda física para solicitar el cambio.
+
+### Montos de reembolso según el tipo de problema
+- Si el producto está faltante: se puede reembolsar el 100% del valor pagado.
+- Si el producto está maltratado y no funciona, también se reembolsa el 100% del valor.
+- Si el producto está maltratado pero funciona correctamente, se ofrece un reembolso parcial del 30% del valor.
+
+### Condiciones necesarias para procesar un reembolso
+- El producto debe estar marcado como entregado en el sistema.
+- El cliente debe reportar el problema dentro de los 3 días hábiles posteriores a la entrega.
+- El agente debe confirmar la cantidad exacta de unidades afectadas.
+- No se puede aplicar el reembolso si ya se ofreció una solución previa, como un reemplazo.
+- El producto debe estar incluido en el pedido para que proceda el reembolso.
+- El monto del reembolso se calcula sobre el precio pagado original, no sobre el precio actual del producto.
+
+### Medio de reembolso y tiempos
+- Por defecto, el reembolso se realiza en forma de créditos dentro de la aplicación.  - Estos créditos pueden ser utilizados en compras futuras.
+- Si el cliente rechaza los créditos, puede solicitar un reembolso directo a su tarjeta, el cual puede tardar entre 5 y 10 días hábiles, dependiendo del banco.
+- El agente debe explicar con claridad el medio de reembolso ofrecido y el tiempo estimado de acreditación.

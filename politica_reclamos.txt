@@ -1,0 +1,22 @@
+### Requisitos para iniciar un reclamo
+- El cliente debe proporcionar el código de pedido para poder iniciar cualquier reclamo.
+- Solo se aceptan reclamos por productos que estén incluidos en el pedido original.
+- El reclamo debe presentarse dentro de los 3 días posteriores a la entrega del pedido.
+
+### Procedimiento y validación de reclamos
+- El agente debe mostrar al cliente la lista de productos entregados y preguntar cuáles tienen problemas.
+- El cliente debe indicar el tipo de problema, que debe ser uno de los siguientes: Faltante, Maltratado, Erróneo.
+- Si hay varias unidades del mismo producto, el cliente debe especificar cuántas están afectadas.
+- No se aceptan reclamos sin información clara sobre el producto y el tipo de problema.
+- El agente debe verificar cuántas unidades están en buen estado y cuántas presentan fallas.
+
+### Definición de tipos de problema
+- Un producto faltante es aquel que figura en el pedido pero no fue entregado.
+- Un producto maltratado es aquel que llegó dañado, roto o con fallas en su funcionamiento.
+- Un producto erróneo es aquel que no coincide con lo que el cliente solicitó.
+
+### Limitaciones del reclamo
+- Si el producto no está en el pedido, el reclamo no puede continuar.
+- En casos de productos erróneos, el cliente debe ser informado de que debe acudir a una tienda física para realizar el cambio.
+- El reclamo se analiza y resuelve durante la conversación, según la información proporcionada por el cliente.
+- El agente debe dejar claro si es posible o no continuar con el reclamo, con base en la información entregada.
